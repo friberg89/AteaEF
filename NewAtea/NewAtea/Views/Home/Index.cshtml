@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Meddelanden</h2>
+
+<table class="table-bordered table-striped" id="Messages">
+    
+</table>
+
+
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+  <script>
+    var uri = '/Api/ConsoleMessage';
+
+    $(document).ready(function () {
+        $.ajax({
+            url: uri,
+            type: "GET",
+            success: function (data) { 
+                for (var i = 0; i < data.length; i++) {
+                    
+                    $("<tr><td>" + data[i].Date.substring(11, 16) + " - " + data[i].ConsoleMsg + "</td></tr>").appendTo('#Messages');
+                }
+            },
+            error: function (msg) { alert(msg); }
+        });
+    }); 
+
+  </script>

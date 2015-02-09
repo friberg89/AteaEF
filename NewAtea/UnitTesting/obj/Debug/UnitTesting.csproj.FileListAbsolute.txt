@@ -1,0 +1,14 @@
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\NewAtea.dll
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\EntityFramework.dll
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\System.Web.Mvc.dll
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\System.Web.Optimization.dll
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\WebGrease.dll
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\NewAtea.pdb
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\EntityFramework.xml
+C:\Users\Joakim\documents\visual studio 2012\Projects\NewAtea\UnitTesting\bin\Debug\System.Web.Mvc.xml
